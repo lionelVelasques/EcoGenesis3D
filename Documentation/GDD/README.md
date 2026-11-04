@@ -21,7 +21,8 @@ El Game Design Document (GDD) contiene el concepto, las mecánicas, la narrativa
 
 El diseño visual y editable se desarrolla en Figma.
 
-- Enlace al GDD: https://www.figma.com/board/tyL8jDzCMqewip0Mrowc2K/Eco-Cleaner--Guardianes-del-Oc%C3%A9ano?node-id=1-581&t=U6umU1S0rjgwjO3x-1
+- Enlace al GDD:
+  https://www.figma.com/board/fG5eMhnIOyDEAdte527x35/EcoGenesis?node-id=0-1&t=PHtf7Ju0BDzahpYA-1
 
 ## Estado del proyecto
 
